@@ -45,6 +45,8 @@ class MuditmayankMishra:
 - 🌱 Learning **Advanced ML Techniques** and **Cloud Architecture**
 - 👨‍🚀 Completed internships at **India Space Academy** & **Agnirva Space Program**
 - 💼 Open to **ML Engineering** and **Data Science** internships
+- 📫 Reach me: **muditmayankm@gmail.com**
+- ⚡ Fun fact: I've identified **214,311 water bodies** from space! 🛰️
 
 ---
 
@@ -142,22 +144,32 @@ class MuditmayankMishra:
   
 ### 📈 Overview Stats
   
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muditmayank1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muditmayank1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muditmayank1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muditmayank1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 ### 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Muditmayank1&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Muditmayank1&theme=tokyonight&hide_border=true&background=0D1117)
 
 ### 📊 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muditmayank1&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" alt="Contribution Graph"/>
-</p>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muditmayank1&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF)
+
+</div>
+
+---
+
+## 📈 Detailed GitHub Analytics
+
+<div align="center">
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muditmayank1&theme=tokyonight)
+
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muditmayank1&theme=tokyonight)
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muditmayank1&theme=tokyonight)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muditmayank1&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muditmayank1&theme=tokyonight&utcOffset=5.5)
 
 </div>
 
@@ -180,52 +192,21 @@ class MuditmayankMishra:
 
 </div>
 
-## 📈 GitHub Activity & Statistics
+---
 
-<div align="center">
-📈 Overview Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muditmayank1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muditmayank1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
-</p>
-🔥 Contribution Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Muditmayank1&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</p>
-📊 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muditmayank1&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" alt="Contribution Graph"/>
-</p>
-</div>
-  
-### 📊 Detailed Analytics
+## 💼 Professional Experience
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muditmayank1&theme=tokyonight" alt="Profile Details" width="100%"/>
-</p>
+### 🛰️ Remote Sensing and GIS Intern
+**India Space Academy** | July 2025 – August 2025
+- Automated water body detection across 85,000+ km² using NDWI satellite analysis
+- Developed geospatial pipeline integrating GEE JavaScript API with QGIS
+- Achieved 95%+ accuracy in water feature identification
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muditmayank1&theme=tokyonight" alt="Top Languages by Repo" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muditmayank1&theme=tokyonight" alt="Top Languages by Commit" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muditmayank1&theme=tokyonight" alt="Stats" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muditmayank1&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="48%"/>
-</p>
-
-### 🏆 GitHub Profile Stats
-
-| Metric | Count |
-|--------|-------|
-| ⭐ **Total Stars Earned** | Check Profile |
-| 🔄 **Total Commits (2024)** | 500+ |
-| 📝 **Total PRs** | 15+ |
-| ✅ **Merged PRs** | 10+ |
-| 📦 **Contributed Repositories** | 8+ |
-| 🐛 **Issues Opened** | 5+ |
-
-</div>
+### 🚀 Space Technology Intern
+**Agnirva Space Internship Program** | Completed September 2025
+- Completed 440-step program spanning 80 hours across 8 weeks
+- Acquired comprehensive knowledge in 15+ space technology domains
+- Achieved 100% completion rate
 
 ---
 
@@ -271,8 +252,11 @@ class MuditmayankMishra:
 
 ---
 
+<div align="center">
 
 ### 💭 "Building solutions that bridge the gap between satellite data and actionable insights"
+
+💡 **Fun fact:** I never push broken code — unless I forget! 😄
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Muditmayank1&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
 
