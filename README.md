@@ -45,8 +45,6 @@ class MuditmayankMishra:
 - 🌱 Learning **Advanced ML Techniques** and **Cloud Architecture**
 - 👨‍🚀 Completed internships at **India Space Academy** & **Agnirva Space Program**
 - 💼 Open to **ML Engineering** and **Data Science** internships
-- 📫 Reach me: **muditmayankm@gmail.com**
-- ⚡ Fun fact: I've identified **214,311 water bodies** from space! 🛰️
 
 ---
 
@@ -182,24 +180,6 @@ class MuditmayankMishra:
 
 </div>
 
----
-
-## 💼 Professional Experience
-
-### 🛰️ Remote Sensing and GIS Intern
-**India Space Academy** | July 2025 – August 2025
-- Automated water body detection across 85,000+ km² using NDWI satellite analysis
-- Developed geospatial pipeline integrating GEE JavaScript API with QGIS
-- Achieved 95%+ accuracy in water feature identification
-
-### 🚀 Space Technology Intern
-**Agnirva Space Internship Program** | Completed September 2025
-- Completed 440-step program spanning 80 hours across 8 weeks
-- Acquired comprehensive knowledge in 15+ space technology domains
-- Achieved 100% completion rate
-
----
-
 ## 📈 GitHub Activity & Statistics
 
 <div align="center">
@@ -277,17 +257,6 @@ class MuditmayankMishra:
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-![Snake animation](https://github.com/Muditmayank1/Muditmayank1/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
 
 ### 💭 "Building solutions that bridge the gap between satellite data and actionable insights"
 
