@@ -174,22 +174,19 @@ class MuditmayankMishra:
 
 ---
 
-## 💼 Experience Timeline
+## 💼 Professional Experience
 
-```mermaid
-gantt
-    title Professional Journey
-    dateFormat  YYYY-MM
-    section Internships
-    India Space Academy (Remote Sensing)    :2025-07, 2025-08
-    Agnirva Space Program                   :2025-06, 2025-09
-    section Projects
-    Urban Heat Island Detection             :2025-01, 2025-02
-    Used Cars Price Predictor               :2025-02, 2025-03
-    CommuteCare BARC                        :2024-10, 2024-12
-    section Education
-    VIT Bhopal B.Tech CSE                   :2022-07, 2026-06
-```
+### 🛰️ Remote Sensing and GIS Intern
+**India Space Academy** | July 2025 – August 2025
+- Automated water body detection across 85,000+ km² using NDWI satellite analysis
+- Developed geospatial pipeline integrating GEE JavaScript API with QGIS
+- Achieved 95%+ accuracy in water feature identification
+
+### 🚀 Space Technology Intern
+**Agnirva Space Internship Program** | Completed September 2025
+- Completed 440-step program spanning 80 hours across 8 weeks
+- Acquired comprehensive knowledge in 15+ space technology domains
+- Achieved 100% completion rate
 
 ---
 
