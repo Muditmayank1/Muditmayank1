@@ -162,23 +162,6 @@ class MuditmayankMishra:
 
 </div>
 
----
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-| Achievement | Details |
-|-------------|---------|
-| 🎓 **Academic Excellence** | CGPA: 8.36/10.0 (3.34/4.0 equivalent) |
-| 🛰️ **Satellite Data Processed** | 85,000+ km² analyzed |
-| 💧 **Water Features Detected** | 214,311 discrete features identified |
-| 🤖 **ML Model Accuracy** | 89% (R² = 0.89) on 15K+ records |
-| 📜 **IBM Certified** | Cyber Security Analyst Professional |
-| 🌍 **Remote Sensing Certified** | India Space Academy |
-| 📊 **Data Analytics** | University of Illinois (Coursera) |
-| 🚀 **Space Technology** | AICTE-recognized Agnirva Program |
-
 </div>
 
 ## 🌐 Connect With Me
