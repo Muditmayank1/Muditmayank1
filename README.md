@@ -144,16 +144,22 @@ class MuditmayankMishra:
   
 ### 📈 Overview Stats
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muditmayank1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muditmayank1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muditmayank1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muditmayank1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
+</p>
 
 ### 🔥 Contribution Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muditmayank1&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Muditmayank1&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+</p>
 
 ### 📊 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muditmayank1&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" alt="Contribution Graph"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muditmayank1&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" alt="Contribution Graph"/>
+</p>
 
 </div>
 
@@ -198,27 +204,21 @@ class MuditmayankMishra:
 
 <div align="center">
   
-### 📊 My GitHub Stats
+### 📊 Detailed Analytics
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muditmayank1&theme=tokyonight" alt="Profile Details"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muditmayank1&theme=tokyonight" alt="Top Languages by Repo"/>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muditmayank1&theme=tokyonight" alt="Top Languages by Commit"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muditmayank1&theme=tokyonight" alt="Stats"/>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muditmayank1&theme=tokyonight" alt="Productive Time"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muditmayank1&theme=tokyonight" alt="Profile Details" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muditmayank1&theme=tokyonight" alt="Top Languages by Repo" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muditmayank1&theme=tokyonight" alt="Top Languages by Commit" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muditmayank1&theme=tokyonight" alt="Stats" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muditmayank1&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="48%"/>
+</p>
 
 ### 🏆 GitHub Profile Stats
 
