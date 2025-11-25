@@ -45,8 +45,6 @@ class MuditmayankMishra:
 - 🌱 Learning **Advanced ML Techniques** and **Cloud Architecture**
 - 👨‍🚀 Completed internships at **India Space Academy** & **Agnirva Space Program**
 - 💼 Open to **ML Engineering** and **Data Science** internships
-- 📫 Reach me: **muditmayankm@gmail.com**
-- ⚡ Fun fact: I've identified **214,311 water bodies** from space! 🛰️
 
 ---
 
@@ -141,15 +139,6 @@ class MuditmayankMishra:
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-### 📈 Overview Stats
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muditmayank1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muditmayank1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-### 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Muditmayank1&theme=tokyonight&hide_border=true&background=0D1117)
 
 ### 📊 Contribution Graph
 
@@ -191,24 +180,6 @@ class MuditmayankMishra:
 | 🚀 **Space Technology** | AICTE-recognized Agnirva Program |
 
 </div>
-
----
-
-## 💼 Professional Experience
-
-### 🛰️ Remote Sensing and GIS Intern
-**India Space Academy** | July 2025 – August 2025
-- Automated water body detection across 85,000+ km² using NDWI satellite analysis
-- Developed geospatial pipeline integrating GEE JavaScript API with QGIS
-- Achieved 95%+ accuracy in water feature identification
-
-### 🚀 Space Technology Intern
-**Agnirva Space Internship Program** | Completed September 2025
-- Completed 440-step program spanning 80 hours across 8 weeks
-- Acquired comprehensive knowledge in 15+ space technology domains
-- Achieved 100% completion rate
-
----
 
 ## 🎯 Skills & Expertise
 
@@ -260,6 +231,6 @@ class MuditmayankMishra:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Muditmayank1&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
 
-⭐️ From [Muditmayank1](https://github.com/Muditmayank1)
+⭐️ From Muditmayank1
 
 </div>
