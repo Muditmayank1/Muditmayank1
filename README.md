@@ -181,24 +181,6 @@ class MuditmayankMishra:
 
 </div>
 
-## 🎯 Skills & Expertise
-
-<div align="center">
-
-### 🔥 Core Competencies
-
-| Domain | Skills | Proficiency |
-|--------|--------|-------------|
-| **Machine Learning** | XGBoost, scikit-learn, Feature Engineering, Hyperparameter Tuning | ████████░░ 80% |
-| **Geospatial Analysis** | Google Earth Engine, QGIS, NDVI/NDWI, Remote Sensing | █████████░ 85% |
-| **Data Science** | Pandas, NumPy, Data Preprocessing, Statistical Analysis | ████████░░ 75% |
-| **Web Development** | Flask, Streamlit, REST APIs, Full-Stack Development | ███████░░░ 70% |
-| **Programming** | Python, JavaScript, C++, SQL | ████████░░ 80% |
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
