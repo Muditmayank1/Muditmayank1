@@ -92,7 +92,7 @@ class MuditmayankMishra:
     <td width="50%">
       <h3 align="center">🌡️ Urban Heat Island Detection</h3>
       <div align="center">  
-        <a href="https://github.com/Muditmayank1/uhi-detection" target="_blank">
+        <a href="https://github.com/Muditmayank1/GeoTherma" target="_blank">
           <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
         </a>
         <p><strong>Python • Flask • Google Earth Engine • ML • Leaflet.js</strong></p>
@@ -102,7 +102,7 @@ class MuditmayankMishra:
     <td width="50%">
       <h3 align="center">🚗 Used Cars Price Predictor</h3>
       <div align="center">
-        <a href="https://github.com/Muditmayank1/car-price-predictor" target="_blank">
+        <a href="https://github.com/Muditmayank1/Used-Cars-Price-Predictor" target="_blank">
           <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
         </a>
         <p><strong>Python • XGBoost • Streamlit • scikit-learn</strong></p>
@@ -122,13 +122,13 @@ class MuditmayankMishra:
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🚌 CommuteCare (BARC)</h3>
+      <h3 align="center">🚌 CommuteCare</h3>
       <div align="center">
         <a href="https://github.com/Muditmayank1/commutecare" target="_blank">
           <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
         </a>
         <p><strong>HTML/CSS • JavaScript • PHP • MySQL</strong></p>
-        <p>Web application for Bhabha Atomic Research Centre tracking 500+ transport incidents with role-based access control. Reduced incident response time by 40% with 99.9% uptime.</p>
+        <p>Web application tracking 500+ transport incidents with role-based access control. Reduced incident response time by 40% with 99.9% uptime.</p>
       </div>
     </td>
   </tr>
