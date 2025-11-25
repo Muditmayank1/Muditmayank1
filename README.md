@@ -184,11 +184,11 @@ gantt
     India Space Academy (Remote Sensing)    :2025-07, 2025-08
     Agnirva Space Program                   :2025-06, 2025-09
     section Projects
-    Urban Heat Island Detection             :2025-01, 2025-01
-    Used Cars Price Predictor               :2025-02, 2025-02
-    CommuteCare (BARC)                      :2024-10, 2024-12
+    Urban Heat Island Detection             :2025-01, 2025-02
+    Used Cars Price Predictor               :2025-02, 2025-03
+    CommuteCare BARC                        :2024-10, 2024-12
     section Education
-    VIT Bhopal (B.Tech CSE)                :2022-07, 2026-06
+    VIT Bhopal B.Tech CSE                   :2022-07, 2026-06
 ```
 
 ---
@@ -233,19 +233,9 @@ Other        █░░░░░░░░░░░░░░░░░░░░░�
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muditmayankm@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muditmayank1)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MuditmayanK24)
+[![Codolio](https://img.shields.io/badge/Codolio-6366F1?style=for-the-badge&logo=code&logoColor=white)](https://codolio.com/profile/jvqACRgor)
 
 </div>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🛰️ [Detecting Water Bodies from Space: My Journey with Satellite Imagery](#)
-- 🤖 [Building a Production ML Pipeline: Lessons from 15,000+ Car Records](#)
-- 🌡️ [Urban Heat Islands: Using Data to Cool Down Cities](#)
-- 🎓 [From Theory to Practice: My Space Technology Internship Experience](#)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
