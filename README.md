@@ -165,7 +165,7 @@ class MuditmayankMishra:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muditmayank)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muditmayankm@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muditmayank1)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MuditmayanK24)
+[![Resume](https://img.shields.io/badge/Resume-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1mxTkSTCQCgoefhLP_Pz9KliIpqpgBnpu/view)
 [![Codolio](https://img.shields.io/badge/Codolio-6366F1?style=for-the-badge&logo=code&logoColor=white)](https://codolio.com/profile/jvqACRgor)
 
 </div>
