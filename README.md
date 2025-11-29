@@ -38,15 +38,6 @@ class MuditmayankMishra:
             "ml_accuracy": "89% (R² = 0.89)",
             "projects_deployed": "3+ production apps"
         }
-```
-
-### 🎯 Quick Facts
-- 🔭 Currently working on **Urban Heat Island Detection System**
-- 🌱 Learning **Advanced ML Techniques** and **Cloud Architecture**
-- 👨‍🚀 Completed internships at **India Space Academy** & **Agnirva Space Program**
-- 💼 Open to **ML Engineering** and **Data Science** internships
-
----
 
 ## 🛠️ Tech Stack & Tools
 
