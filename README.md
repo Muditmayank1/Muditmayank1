@@ -38,6 +38,9 @@ class MuditmayankMishra:
             "ml_accuracy": "89% (R² = 0.89)",
             "projects_deployed": "3+ production apps"
         }
+```
+
+---
 
 ## 🛠️ Tech Stack & Tools
 
@@ -184,9 +187,5 @@ class MuditmayankMishra:
 ### 💭 "Building solutions that bridge the gap between satellite data and actionable insights"
 
 💡 **Fun fact:** I never push broken code — unless I forget! 😄
-
-![Profile Views](https://komarev.com/ghpvc/?username=Muditmayank1&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
-
-⭐️ From Muditmayank1
 
 </div>
