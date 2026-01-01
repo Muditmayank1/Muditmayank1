@@ -108,7 +108,7 @@ class MuditmayankMishra:
     <td width="50%">
       <h3 align="center">💧 Water Body Detection (India Space Academy)</h3>
       <div align="center">
-        <a href="https://github.com/Muditmayank1/water-body-detection" target="_blank">
+        <a href="https://drive.google.com/file/d/12MaNDy-DUfMmu_pefKUVcbkjU4wBhSYf/view?usp=sharing" target="_blank">
           <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
         </a>
         <p><strong>Google Earth Engine • Python • QGIS • NDWI</strong></p>
